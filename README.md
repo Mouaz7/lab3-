@@ -30,3 +30,17 @@ This repository contains an x86-64 assembly library for input/output (text and i
 
 This project is for **personal, educational, and demonstration purposes only**.
 You may not copy, modify, distribute, or use it for commercial purposes without explicit permission from the author.
+
+
+Copyright (c) 2025 Mouaz7
+All rights reserved.
+
+This source code and associated files are provided for personal, educational, and demonstration purposes only.
+
+You may not:
+- Copy, modify, merge, publish, distribute, sublicense, or sell any part of the code.
+- Use the code for commercial purposes.
+- Remove this notice from the code.
+
+By accessing this repository, you agree to these terms.
+
